@@ -1,0 +1,605 @@
+Setup           Time: 0.3601191
+KeyGen          Time: 0.5037081
+Encryption      Time: 0.0717032
+Decryption      Time: 0.0603051
+Round 1 Total time: 0.9958355
+
+Setup           Time: 0.0837522
+KeyGen          Time: 0.4741723
+Encryption      Time: 0.0717657
+Decryption      Time: 0.0500166
+Round 2 Total time: 0.6797067999999999
+
+Setup           Time: 0.07744
+KeyGen          Time: 0.4718054
+Encryption      Time: 0.068726
+Decryption      Time: 0.0505609
+Round 3 Total time: 0.6685323
+
+Setup           Time: 0.0769625
+KeyGen          Time: 0.4791417
+Encryption      Time: 0.0693078
+Decryption      Time: 0.0502031
+Round 4 Total time: 0.6756151000000001
+
+Setup           Time: 0.0736609
+KeyGen          Time: 0.4749284
+Encryption      Time: 0.0691483
+Decryption      Time: 0.0507816
+Round 5 Total time: 0.6685191999999999
+
+Setup           Time: 0.0737653
+KeyGen          Time: 0.4724545
+Encryption      Time: 0.0684443
+Decryption      Time: 0.0490458
+Round 6 Total time: 0.6637099000000001
+
+Setup           Time: 0.074298
+KeyGen          Time: 0.4693653
+Encryption      Time: 0.0694925
+Decryption      Time: 0.0489025
+Round 7 Total time: 0.6620582999999999
+
+Setup           Time: 0.0769954
+KeyGen          Time: 0.4709081
+Encryption      Time: 0.0710212
+Decryption      Time: 0.0502791
+Round 8 Total time: 0.6692038
+
+Setup           Time: 0.0750973
+KeyGen          Time: 0.4721603
+Encryption      Time: 0.0687534
+Decryption      Time: 0.0493523
+Round 9 Total time: 0.6653633
+
+Setup           Time: 0.0732774
+KeyGen          Time: 0.46943
+Encryption      Time: 0.0688566
+Decryption      Time: 0.0477607
+Round 10 Total time: 0.6593247000000001
+
+Setup           Time: 0.0744268
+KeyGen          Time: 0.4665571
+Encryption      Time: 0.0701153
+Decryption      Time: 0.0478188
+Round 11 Total time: 0.658918
+
+Setup           Time: 0.0744655
+KeyGen          Time: 0.46716
+Encryption      Time: 0.0684839
+Decryption      Time: 0.0488332
+Round 12 Total time: 0.6589426
+
+Setup           Time: 0.0732391
+KeyGen          Time: 0.4704029
+Encryption      Time: 0.0679405
+Decryption      Time: 0.0484542
+Round 13 Total time: 0.6600366999999999
+
+Setup           Time: 0.0730743
+KeyGen          Time: 0.4701527
+Encryption      Time: 0.0688853
+Decryption      Time: 0.047867
+Round 14 Total time: 0.6599793
+
+Setup           Time: 0.0755693
+KeyGen          Time: 0.4659849
+Encryption      Time: 0.0684176
+Decryption      Time: 0.0488295
+Round 15 Total time: 0.6588012999999999
+
+Setup           Time: 0.0745098
+KeyGen          Time: 0.4684116
+Encryption      Time: 0.0687031
+Decryption      Time: 0.0488553
+Round 16 Total time: 0.6604798000000001
+
+Setup           Time: 0.0735661
+KeyGen          Time: 0.4678292
+Encryption      Time: 0.0700628
+Decryption      Time: 0.0491176
+Round 17 Total time: 0.6605757
+
+Setup           Time: 0.0731524
+KeyGen          Time: 0.4690235
+Encryption      Time: 0.0682096
+Decryption      Time: 0.0478129
+Round 18 Total time: 0.6581984
+
+Setup           Time: 0.0752703
+KeyGen          Time: 0.4667576
+Encryption      Time: 0.068645
+Decryption      Time: 0.0483651
+Round 19 Total time: 0.659038
+
+Setup           Time: 0.0740017
+KeyGen          Time: 0.4674715
+Encryption      Time: 0.0707885
+Decryption      Time: 0.048869
+Round 20 Total time: 0.6611307000000001
+
+Setup           Time: 0.0748933
+KeyGen          Time: 0.468937
+Encryption      Time: 0.0683369
+Decryption      Time: 0.0485319
+Round 21 Total time: 0.6606991
+
+Setup           Time: 0.0730333
+KeyGen          Time: 0.4706431
+Encryption      Time: 0.0694168
+Decryption      Time: 0.047373
+Round 22 Total time: 0.6604662
+
+Setup           Time: 0.0738353
+KeyGen          Time: 0.4664132
+Encryption      Time: 0.0692592
+Decryption      Time: 0.0490098
+Round 23 Total time: 0.6585175
+
+Setup           Time: 0.0754117
+KeyGen          Time: 0.4666608
+Encryption      Time: 0.0684973
+Decryption      Time: 0.048411
+Round 24 Total time: 0.6589807999999999
+
+Setup           Time: 0.0794174
+KeyGen          Time: 0.4974458
+Encryption      Time: 0.0716517
+Decryption      Time: 0.0497832
+Round 25 Total time: 0.6982981
+
+Setup           Time: 0.0751183
+KeyGen          Time: 0.4840245
+Encryption      Time: 0.0699869
+Decryption      Time: 0.0484514
+Round 26 Total time: 0.6775811
+
+Setup           Time: 0.077201
+KeyGen          Time: 0.4760757
+Encryption      Time: 0.0690203
+Decryption      Time: 0.0490291
+Round 27 Total time: 0.6713261
+
+Setup           Time: 0.0739287
+KeyGen          Time: 0.4664064
+Encryption      Time: 0.0690874
+Decryption      Time: 0.0485652
+Round 28 Total time: 0.6579877
+
+Setup           Time: 0.0743222
+KeyGen          Time: 0.4676091
+Encryption      Time: 0.0692946
+Decryption      Time: 0.0487664
+Round 29 Total time: 0.6599923
+
+Setup           Time: 0.0738967
+KeyGen          Time: 0.4747689
+Encryption      Time: 0.0696873
+Decryption      Time: 0.0477208
+Round 30 Total time: 0.6660737
+
+Setup           Time: 0.0747072
+KeyGen          Time: 0.4674894
+Encryption      Time: 0.068461
+Decryption      Time: 0.0492496
+Round 31 Total time: 0.6599072
+
+Setup           Time: 0.0735946
+KeyGen          Time: 0.4744463
+Encryption      Time: 0.0698427
+Decryption      Time: 0.0487859
+Round 32 Total time: 0.6666695
+
+Setup           Time: 0.0735542
+KeyGen          Time: 0.4678303
+Encryption      Time: 0.069036
+Decryption      Time: 0.0483013
+Round 33 Total time: 0.6587217999999999
+
+Setup           Time: 0.0733262
+KeyGen          Time: 0.4742292
+Encryption      Time: 0.0695075
+Decryption      Time: 0.0473347
+Round 34 Total time: 0.6643976
+
+Setup           Time: 0.0750535
+KeyGen          Time: 0.4717574
+Encryption      Time: 0.0699605
+Decryption      Time: 0.0486718
+Round 35 Total time: 0.6654432
+
+Setup           Time: 0.0733632
+KeyGen          Time: 0.4679144
+Encryption      Time: 0.0690541
+Decryption      Time: 0.0484805
+Round 36 Total time: 0.6588122000000001
+
+Setup           Time: 0.0730326
+KeyGen          Time: 0.4691961
+Encryption      Time: 0.0685057
+Decryption      Time: 0.0487872
+Round 37 Total time: 0.6595216
+
+Setup           Time: 0.0731528
+KeyGen          Time: 0.4684385
+Encryption      Time: 0.0710511
+Decryption      Time: 0.0477987
+Round 38 Total time: 0.6604411
+
+Setup           Time: 0.0740446
+KeyGen          Time: 0.4688271
+Encryption      Time: 0.0680061
+Decryption      Time: 0.050295
+Round 39 Total time: 0.6611727999999999
+
+Setup           Time: 0.0739267
+KeyGen          Time: 0.4683801
+Encryption      Time: 0.0685773
+Decryption      Time: 0.0491398
+Round 40 Total time: 0.6600238999999999
+
+Setup           Time: 0.0727016
+KeyGen          Time: 0.4688522
+Encryption      Time: 0.0683869
+Decryption      Time: 0.050081
+Round 41 Total time: 0.6600217
+
+Setup           Time: 0.0731217
+KeyGen          Time: 0.4664171
+Encryption      Time: 0.0701464
+Decryption      Time: 0.0473647
+Round 42 Total time: 0.6570499
+
+Setup           Time: 0.0748495
+KeyGen          Time: 0.4686885
+Encryption      Time: 0.0686045
+Decryption      Time: 0.0487686
+Round 43 Total time: 0.6609111
+
+Setup           Time: 0.0730994
+KeyGen          Time: 0.4695318
+Encryption      Time: 0.068215
+Decryption      Time: 0.0495559
+Round 44 Total time: 0.6604021
+
+Setup           Time: 0.0726507
+KeyGen          Time: 0.4690221
+Encryption      Time: 0.0683678
+Decryption      Time: 0.0485918
+Round 45 Total time: 0.6586323999999999
+
+Setup           Time: 0.0734453
+KeyGen          Time: 0.4691462
+Encryption      Time: 0.0693492
+Decryption      Time: 0.0475471
+Round 46 Total time: 0.6594878
+
+Setup           Time: 0.0741964
+KeyGen          Time: 0.4682047
+Encryption      Time: 0.068563
+Decryption      Time: 0.0481542
+Round 47 Total time: 0.6591183
+
+Setup           Time: 0.0743467
+KeyGen          Time: 0.4690957
+Encryption      Time: 0.068537
+Decryption      Time: 0.0486895
+Round 48 Total time: 0.6606688999999999
+
+Setup           Time: 0.0733771
+KeyGen          Time: 0.4720747
+Encryption      Time: 0.0683774
+Decryption      Time: 0.0483048
+Round 49 Total time: 0.6621340000000001
+
+Setup           Time: 0.0732868
+KeyGen          Time: 0.4689074
+Encryption      Time: 0.0699283
+Decryption      Time: 0.0476407
+Round 50 Total time: 0.6597631999999999
+
+Setup           Time: 0.0759477
+KeyGen          Time: 0.4686697
+Encryption      Time: 0.0689042
+Decryption      Time: 0.0484823
+Round 51 Total time: 0.6620039
+
+Setup           Time: 0.0736248
+KeyGen          Time: 0.4686499
+Encryption      Time: 0.0682447
+Decryption      Time: 0.0486503
+Round 52 Total time: 0.6591697000000001
+
+Setup           Time: 0.0729715
+KeyGen          Time: 0.4683637
+Encryption      Time: 0.0686223
+Decryption      Time: 0.0486612
+Round 53 Total time: 0.6586187
+
+Setup           Time: 0.0746352
+KeyGen          Time: 0.4650174
+Encryption      Time: 0.0693335
+Decryption      Time: 0.0482562
+Round 54 Total time: 0.6572423000000001
+
+Setup           Time: 0.0740461
+KeyGen          Time: 0.4658572
+Encryption      Time: 0.0682662
+Decryption      Time: 0.0489521
+Round 55 Total time: 0.6571216
+
+Setup           Time: 0.0732823
+KeyGen          Time: 0.468819
+Encryption      Time: 0.0684356
+Decryption      Time: 0.0485089
+Round 56 Total time: 0.6590458
+
+Setup           Time: 0.0727487
+KeyGen          Time: 0.4706805
+Encryption      Time: 0.0685466
+Decryption      Time: 0.0483273
+Round 57 Total time: 0.6603031
+
+Setup           Time: 0.0730365
+KeyGen          Time: 0.4677371
+Encryption      Time: 0.0692676
+Decryption      Time: 0.0474561
+Round 58 Total time: 0.6574973000000001
+
+Setup           Time: 0.0737244
+KeyGen          Time: 0.4672875
+Encryption      Time: 0.0687601
+Decryption      Time: 0.0486476
+Round 59 Total time: 0.6584196
+
+Setup           Time: 0.0735505
+KeyGen          Time: 0.4666345
+Encryption      Time: 0.0682968
+Decryption      Time: 0.048681
+Round 60 Total time: 0.6571628
+
+Setup           Time: 0.0729064
+KeyGen          Time: 0.4672703
+Encryption      Time: 0.068412
+Decryption      Time: 0.0474358
+Round 61 Total time: 0.6560245000000001
+
+Setup           Time: 0.075571
+KeyGen          Time: 0.4696726
+Encryption      Time: 0.0698267
+Decryption      Time: 0.0476244
+Round 62 Total time: 0.6626947000000001
+
+Setup           Time: 0.0737972
+KeyGen          Time: 0.4740368
+Encryption      Time: 0.0685953
+Decryption      Time: 0.0486615
+Round 63 Total time: 0.6650908
+
+Setup           Time: 0.0730704
+KeyGen          Time: 0.4675772
+Encryption      Time: 0.0687065
+Decryption      Time: 0.048955
+Round 64 Total time: 0.6583091
+
+Setup           Time: 0.0727706
+KeyGen          Time: 0.4704053
+Encryption      Time: 0.0685048
+Decryption      Time: 0.047727
+Round 65 Total time: 0.6594077
+
+Setup           Time: 0.074454
+KeyGen          Time: 0.4689461
+Encryption      Time: 0.07061
+Decryption      Time: 0.0483063
+Round 66 Total time: 0.6623164
+
+Setup           Time: 0.0776406
+KeyGen          Time: 0.4684678
+Encryption      Time: 0.0685981
+Decryption      Time: 0.0483494
+Round 67 Total time: 0.6630559
+
+Setup           Time: 0.0725918
+KeyGen          Time: 0.4692666
+Encryption      Time: 0.0713786
+Decryption      Time: 0.0492541
+Round 68 Total time: 0.6624910999999999
+
+Setup           Time: 0.0739054
+KeyGen          Time: 0.4693983
+Encryption      Time: 0.068837
+Decryption      Time: 0.0474996
+Round 69 Total time: 0.6596403
+
+Setup           Time: 0.074606
+KeyGen          Time: 0.4656615
+Encryption      Time: 0.068386
+Decryption      Time: 0.0490417
+Round 70 Total time: 0.6576951999999999
+
+Setup           Time: 0.074623
+KeyGen          Time: 0.4688766
+Encryption      Time: 0.0694097
+Decryption      Time: 0.0486723
+Round 71 Total time: 0.6615816
+
+Setup           Time: 0.0733394
+KeyGen          Time: 0.468956
+Encryption      Time: 0.0683132
+Decryption      Time: 0.0490486
+Round 72 Total time: 0.6596571999999999
+
+Setup           Time: 0.0727208
+KeyGen          Time: 0.4682064
+Encryption      Time: 0.0687637
+Decryption      Time: 0.0475518
+Round 73 Total time: 0.6572427000000001
+
+Setup           Time: 0.073954
+KeyGen          Time: 0.4684914
+Encryption      Time: 0.0689231
+Decryption      Time: 0.0488068
+Round 74 Total time: 0.6601753
+
+Setup           Time: 0.0738331
+KeyGen          Time: 0.4697189
+Encryption      Time: 0.0687459
+Decryption      Time: 0.0493118
+Round 75 Total time: 0.6616097000000001
+
+Setup           Time: 0.0746748
+KeyGen          Time: 0.4689048
+Encryption      Time: 0.0686256
+Decryption      Time: 0.0491593
+Round 76 Total time: 0.6613645
+
+Setup           Time: 0.0738436
+KeyGen          Time: 0.4698279
+Encryption      Time: 0.0685448
+Decryption      Time: 0.0475772
+Round 77 Total time: 0.6597934999999999
+
+Setup           Time: 0.0741112
+KeyGen          Time: 0.4695128
+Encryption      Time: 0.0687643
+Decryption      Time: 0.048938
+Round 78 Total time: 0.6613263
+
+Setup           Time: 0.0742741
+KeyGen          Time: 0.46912
+Encryption      Time: 0.068654
+Decryption      Time: 0.0483774
+Round 79 Total time: 0.6604255
+
+Setup           Time: 0.0726669
+KeyGen          Time: 0.4687037
+Encryption      Time: 0.0688475
+Decryption      Time: 0.050154
+Round 80 Total time: 0.6603721
+
+Setup           Time: 0.0741454
+KeyGen          Time: 0.4735284
+Encryption      Time: 0.0685833
+Decryption      Time: 0.047496
+Round 81 Total time: 0.6637531
+
+Setup           Time: 0.0742524
+KeyGen          Time: 0.4718955
+Encryption      Time: 0.0681163
+Decryption      Time: 0.0486489
+Round 82 Total time: 0.6629131
+
+Setup           Time: 0.0746007
+KeyGen          Time: 0.467788
+Encryption      Time: 0.0687112
+Decryption      Time: 0.0485616
+Round 83 Total time: 0.6596614999999999
+
+Setup           Time: 0.0742376
+KeyGen          Time: 0.4728497
+Encryption      Time: 0.0681167
+Decryption      Time: 0.0488627
+Round 84 Total time: 0.6640667
+
+Setup           Time: 0.0729034
+KeyGen          Time: 0.4674478
+Encryption      Time: 0.06927
+Decryption      Time: 0.0474205
+Round 85 Total time: 0.6570417000000001
+
+Setup           Time: 0.074174
+KeyGen          Time: 0.466027
+Encryption      Time: 0.0683895
+Decryption      Time: 0.0484062
+Round 86 Total time: 0.6569967
+
+Setup           Time: 0.0745539
+KeyGen          Time: 0.4696895
+Encryption      Time: 0.069007
+Decryption      Time: 0.0482379
+Round 87 Total time: 0.6614883
+
+Setup           Time: 0.0732374
+KeyGen          Time: 0.4688567
+Encryption      Time: 0.0681764
+Decryption      Time: 0.048683
+Round 88 Total time: 0.6589535000000001
+
+Setup           Time: 0.0733248
+KeyGen          Time: 0.4664168
+Encryption      Time: 0.0700952
+Decryption      Time: 0.0473949
+Round 89 Total time: 0.6572317000000001
+
+Setup           Time: 0.0743442
+KeyGen          Time: 0.4684714
+Encryption      Time: 0.0684409
+Decryption      Time: 0.048531
+Round 90 Total time: 0.6597875
+
+Setup           Time: 0.0737302
+KeyGen          Time: 0.4667845
+Encryption      Time: 0.0678139
+Decryption      Time: 0.0485561
+Round 91 Total time: 0.6568847
+
+Setup           Time: 0.073798
+KeyGen          Time: 0.4694136
+Encryption      Time: 0.0687257
+Decryption      Time: 0.0494014
+Round 92 Total time: 0.6613387000000001
+
+Setup           Time: 0.073073
+KeyGen          Time: 0.4675327
+Encryption      Time: 0.0698083
+Decryption      Time: 0.0473869
+Round 93 Total time: 0.6578009
+
+Setup           Time: 0.0733021
+KeyGen          Time: 0.4684735
+Encryption      Time: 0.0684719
+Decryption      Time: 0.0486455
+Round 94 Total time: 0.6588930000000001
+
+Setup           Time: 0.0725567
+KeyGen          Time: 0.466581
+Encryption      Time: 0.0691717
+Decryption      Time: 0.0484483
+Round 95 Total time: 0.6567577
+
+Setup           Time: 0.0737812
+KeyGen          Time: 0.4726705
+Encryption      Time: 0.0680165
+Decryption      Time: 0.0485874
+Round 96 Total time: 0.6630556000000001
+
+Setup           Time: 0.0735593
+KeyGen          Time: 0.4686291
+Encryption      Time: 0.0697115
+Decryption      Time: 0.0476608
+Round 97 Total time: 0.6595607000000001
+
+Setup           Time: 0.0740902
+KeyGen          Time: 0.4667504
+Encryption      Time: 0.0689688
+Decryption      Time: 0.0484104
+Round 98 Total time: 0.6582198
+
+Setup           Time: 0.0732748
+KeyGen          Time: 0.4696373
+Encryption      Time: 0.0685819
+Decryption      Time: 0.04873
+Round 99 Total time: 0.660224
+
+Setup           Time: 0.0731615
+KeyGen          Time: 0.4685609
+Encryption      Time: 0.0681602
+Decryption      Time: 0.0483166
+Round 100 Total time: 0.6581992000000001
+
+Setup    Average       Time: 0.077015549
+KeyGen   Average       Time: 0.47002000600000005
+Encryption    Average  Time: 0.06902647800000003
+Decryption    Average  Time: 0.04870676
+100 Round Total Average Time: 0.6647687929999998
